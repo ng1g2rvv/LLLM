@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="LLLM" />
         <p className="description">
-          You know, your best Law LLM <code>pages/index.js</code>
+          You know, your best Law LLM
         </p>
       </main>
 
